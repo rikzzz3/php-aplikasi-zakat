@@ -7,3 +7,5 @@ Teknologi:
 User Login
 username: admin
 password: admin
+
+link akses: localhost/zakat
