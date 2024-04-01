@@ -3,6 +3,8 @@ Anggota:
 - Muhamad Erik Setiawan (2222105129)
 - Windy Wulandari (2222105220)
 - Toibatul Sa'diah (2222105213)
+- Tifani Aulia Rahmah (2222105212)
+- Zahra Salma Hanifah (2222105228)
 
 Teknologi:
 - PHP
